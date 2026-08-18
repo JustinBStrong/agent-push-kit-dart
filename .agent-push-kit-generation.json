@@ -1,0 +1,18 @@
+{
+  "apiVersion": "0.1.0",
+  "generatorVersion": "7.24.0",
+  "id": "dart",
+  "language": "Dart",
+  "generator": "dart-dio",
+  "stability": "stable",
+  "repository": "JustinBStrong/agent-push-kit-dart",
+  "properties": {
+    "pubName": "agent_push_kit",
+    "pubVersion": "0.1.0",
+    "pubDescription": "Agent Push Kit API client",
+    "pubHomepage": "https://agentpushkit.com",
+    "pubRepository": "https://github.com/JustinBStrong/agent-push-kit-dart",
+    "pubAuthor": "Justin Strong",
+    "licenseName": "MIT"
+  }
+}
